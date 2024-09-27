@@ -1,0 +1,349 @@
+body {
+    background-image: url('nature-night-sky-stars-galaxy-aurora-generative-ai_188544-12466.avif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  .bigBox {
+    display: flex;
+    flex-direction: row; 
+    background-color: black;
+    height: 490px;
+    width: 1200px;
+    border-radius: 25px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    position: relative;
+}
+#BB1::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 80px;
+    width: 25%;
+    height: 100%;
+    background-image: url('GK-Quiz-On-Currencies-Of-World.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#BB1 .smallBox h2 {
+    font-size: 50px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    background: linear-gradient(to right, rgba(96,169,255,255), rgba(201,138,255,255));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: white;
+}
+#BB1 .smallBox p {
+    margin-top: 15px;
+    font-size: 25px;
+    color: white;
+}
+#BB1 .smallBox{
+    height: 490px;
+    width: 650px;
+    padding: 60px;
+    margin-left: 25px;
+}
+.buttons1{
+    margin-top: 40px;
+}
+.buttons1 a{
+    text-decoration: none;
+}
+.buttons1 button{
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+    box-shadow: rgba(255, 255, 255, 0.07) 0px 1px 2px, rgba(255, 255, 255, 0.07) 0px 2px 4px, rgba(255, 255, 255, 0.07) 0px 4px 8px, rgba(255, 255, 255, 0.07) 0px 8px 16px, rgba(255, 255, 255, 0.07) 0px 16px 32px, rgba(255, 255, 255, 0.07) 0px 32px 64px;
+}
+#button1{
+    background: linear-gradient(to right, rgba(96,169,255,255), rgba(201,138,255,255));
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    color: black;
+    border-radius: 15px;
+    margin-right: 10px;
+}
+#button2{
+    background: linear-gradient(to right, rgba(96,169,255,255), rgba(201,138,255,255));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    color: white;
+    border-radius: 15px;
+}
+
+
+#BB2 .smallBox h2 {
+    font-size: 50px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    background: linear-gradient(rgba(96,169,255,255), rgba(201,138,255,255));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: white;
+    text-align: right; 
+    margin: 80px 25px 20px 0px;
+}
+#BB2 .smallBox p {
+    margin-top: 15px;
+    font-size: 25px;
+    color: white;
+    text-align: right;
+    margin-right: 25px;
+}
+#BB2 .smallBox{
+    height: 490px;
+    width: 650px;
+    margin-left: 470px;
+}
+#BB2::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 80px;
+    width: 25%;
+    height: 100%;
+    background-image: url('Designer-removebg-preview.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#column-containers{
+    display: flex;
+    flex-direction: column;
+}
+.horizonal-line{
+    height: 1px;
+    width: 800px;
+    left: 0;
+    top: 245px;
+    background-color: white;
+}
+.container {
+    right: 0;
+    background-color: #6a6873;
+    width: 400px;
+    height: 490px;
+    border-radius: 0px 25px 25px 0px;
+  }
+  .display {
+    width: 100%;
+    height: 60px;
+    padding: 40px 0;
+    background-color: #687677;
+    color: #13121a !important;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+  }
+  .buttons {
+    padding: 20px 20px 0 20px;
+  }
+  .row {
+    width: 280px;
+    float: left;
+  }
+  input[type=button] {
+    width: 60px;
+    height: 60px;
+    float: left;
+    padding: 0;
+    margin: 5px;
+    box-sizing: border-box;
+    background: #333238;
+    color: white;
+    border: none;
+    font-size: 30px;
+    line-height: 30px;
+    border-radius: 15px;
+    font-weight: 700;
+    cursor: pointer;
+    
+  }
+  input[type=text] {
+    width: 270px;
+    height: 60px;
+    float: left;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    background: none;
+    color: black;
+    text-align: right;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 60px;
+    margin: 0 25px;
+  }
+#fromCurrency{
+    height: 245px;
+    width: 800px;
+    top: 0;
+    left: 0;
+    color: white;
+}
+#toCurrency{
+    height: 245px;
+    width: 800px;
+    left: 0;
+    color: white;
+}
+#fromCurrency p, #toCurrency p{
+    margin-left: 15px;
+}
+#fromCurrency h1, #toCurrency h1{
+    margin-left: 15px;
+    background: linear-gradient(rgba(96,169,255,255), rgba(201,138,255,255));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#fromCurrency{
+    height: 245px;
+    width: 800px;
+    top: 0;
+    left: 0;
+    color: white;
+}
+#toCurrency{
+    height: 245px;
+    width: 800px;
+    left: 0;
+    color: white;
+}
+.SmallBox{
+    display: flex;
+    flex-direction: row;
+    height: 193px;
+    width: 800px;
+    bottom: 0;
+}
+#altBox{
+    height: 165px !important;
+}
+#box1, #box3{
+    display: flex;
+    flex-direction: column;
+    height: 193px;
+    width: 400px;
+    left: 0;
+}
+#box2, #box4{
+    display: flex;
+    flex-direction: column !important;
+    height: 193px;
+    width: 400px;
+    right: 0;
+}
+#fromCurrency h2, #toCurrency h2{
+    margin-left: 15px;
+}
+.box {
+    margin-left: 15px;
+  }
+  
+  .box select {
+    background: #0563af;
+    color: white;
+    padding: 12px;
+    width: 250px;
+    font-size: 20px;
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+  }
+  
+  .box::before {
+    font-family: FontAwesome;
+    top: 0;
+    right: 0;
+    width: 20%;
+    height: 100%;
+    text-align: center;
+    font-size: 28px;
+    color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+  
+  .box:hover::before {
+    color: rgba(255, 255, 255, 0.6);
+    background-color: rgba(255, 255, 255, 0.2);
+  }
+  
+  .box select option {
+    padding: 30px;
+  }
+  #resultOutside{
+    width: 270px;
+    height: 60px;
+    float: left;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    background: none;
+    color: white;
+    text-align: left;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 60px;
+    margin: 0 25px;
+  }
+#result1{
+    color: white;
+    font-size: 50px;
+}
+
+#BB4 .smallBox h2 {
+    font-size: 50px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    background: linear-gradient(rgba(96,169,255,255), rgba(201,138,255,255));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: white;
+    text-align: left; 
+    margin: 30px 25px 20px 0px;
+}
+#BB4 .smallBox p {
+    margin-top: 15px;
+    font-size: 25px;
+    color: white;
+    text-align: left;
+    margin-right: 25px;
+}
+#BB4 .smallBox{
+    height: 490px;
+    width: 650px;
+    margin-left: 470px;
+}
+#BB4::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 80px;
+    width: 25%;
+    height: 100%;
+    background-image: url('world-map.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#button3 a{
+    text-decoration: none;
+}
+#button3{
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+    box-shadow: rgba(255, 255, 255, 0.07) 0px 1px 2px, rgba(255, 255, 255, 0.07) 0px 2px 4px, rgba(255, 255, 255, 0.07) 0px 4px 8px, rgba(255, 255, 255, 0.07) 0px 8px 16px, rgba(255, 255, 255, 0.07) 0px 16px 32px, rgba(255, 255, 255, 0.07) 0px 32px 64px;
+    background: linear-gradient(to right, rgba(96,169,255,255), rgba(201,138,255,255));
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    color: black;
+    border-radius: 15px;
+}
+

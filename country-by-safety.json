@@ -1,0 +1,986 @@
+[
+    {
+        "country": "Afghanistan",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Aland Islands",
+        "safety": "safe"
+    },
+    {
+        "country": "Albania",
+        "safety": "moderate"
+    },
+    {
+        "country": "Algeria",
+        "safety": "unsafe"
+    },
+    {
+        "country": "American Samoa",
+        "safety": "safe"
+    },
+    {
+        "country": "Andorra",
+        "safety": "safe"
+    },
+    {
+        "country": "Angola",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Anguilla",
+        "safety": "safe"
+    },
+    {
+        "country": "Antarctica",
+        "safety": "safe"
+    },
+    {
+        "country": "Antigua And Barbuda",
+        "safety": "safe"
+    },
+    {
+        "country": "Argentina",
+        "safety": "moderate"
+    },
+    {
+        "country": "Armenia",
+        "safety": "moderate"
+    },
+    {
+        "country": "Aruba",
+        "safety": "safe"
+    },
+    {
+        "country": "Australia",
+        "safety": "safe"
+    },
+    {
+        "country": "Austria",
+        "safety": "safe"
+    },
+    {
+        "country": "Azerbaijan",
+        "safety": "moderate"
+    },
+    {
+        "country": "Bahamas",
+        "safety": "safe"
+    },
+    {
+        "country": "Bahrain",
+        "safety": "safe"
+    },
+    {
+        "country": "Bangladesh",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Barbados",
+        "safety": "safe"
+    },
+    {
+        "country": "Belarus",
+        "safety": "moderate"
+    },
+    {
+        "country": "Belgium",
+        "safety": "safe"
+    },
+    {
+        "country": "Belize",
+        "safety": "moderate"
+    },
+    {
+        "country": "Benin",
+        "safety": "moderate"
+    },
+    {
+        "country": "Bermuda",
+        "safety": "safe"
+    },
+    {
+        "country": "Bhutan",
+        "safety": "safe"
+    },
+    {
+        "country": "Bolivia",
+        "safety": "moderate"
+    },
+    {
+        "country": "Bosnia And Herzegovina",
+        "safety": "moderate"
+    },
+    {
+        "country": "Botswana",
+        "safety": "moderate"
+    },
+    {
+        "country": "Bouvet Island",
+        "safety": "safe"
+    },
+    {
+        "country": "Brazil",
+        "safety": "moderate"
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "safety": "safe"
+    },
+    {
+        "country": "Brunei Darussalam",
+        "safety": "safe"
+    },
+    {
+        "country": "Bulgaria",
+        "safety": "moderate"
+    },
+    {
+        "country": "Burkina Faso",
+        "safety": "moderate"
+    },
+    {
+        "country": "Burundi",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Cambodia",
+        "safety": "moderate"
+    },
+    {
+        "country": "Cameroon",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Canada",
+        "safety": "safe"
+    },
+    {
+        "country": "Cape Verde",
+        "safety": "moderate"
+    },
+    {
+        "country": "Cayman Islands",
+        "safety": "safe"
+    },
+    {
+        "country": "Central African Republic",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Chad",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Chile",
+        "safety": "moderate"
+    },
+    {
+        "country": "China",
+        "safety": "moderate"
+    },
+    {
+        "country": "Christmas Island",
+        "safety": "safe"
+    },
+    {
+        "country": "Cocos (Keeling) Islands",
+        "safety": "safe"
+    },
+    {
+        "country": "Colombia",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Comoros",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Congo",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Congo, Democratic Republic",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Cook Islands",
+        "safety": "safe"
+    },
+    {
+        "country": "Costa Rica",
+        "safety": "moderate"
+    },
+    {
+        "country": "Cote D'Ivoire",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Croatia",
+        "safety": "moderate"
+    },
+    {
+        "country": "Cuba",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Cyprus",
+        "safety": "moderate"
+    },
+    {
+        "country": "Czech Republic",
+        "safety": "moderate"
+    },
+    {
+        "country": "Denmark",
+        "safety": "safe"
+    },
+    {
+        "country": "Djibouti",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Dominica",
+        "safety": "moderate"
+    },
+    {
+        "country": "Dominican Republic",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Ecuador",
+        "safety": "moderate"
+    },
+    {
+        "country": "Egypt",
+        "safety": "unsafe"
+    },
+    {
+        "country": "El Salvador",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Equatorial Guinea",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Eritrea",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Estonia",
+        "safety": "moderate"
+    },
+    {
+        "country": "Ethiopia",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Falkland Islands (Malvinas)",
+        "safety": "safe"
+    },
+    {
+        "country": "Faroe Islands",
+        "safety": "safe"
+    },
+    {
+        "country": "Fiji",
+        "safety": "moderate"
+    },
+    {
+        "country": "Finland",
+        "safety": "safe"
+    },
+    {
+        "country": "France",
+        "safety": "moderate"
+    },
+    {
+        "country": "French Guiana",
+        "safety": "unsafe"
+    },
+    {
+        "country": "French Polynesia",
+        "safety": "safe"
+    },
+    {
+        "country": "French Southern Territories",
+        "safety": "safe"
+    },
+    {
+        "country": "Gabon",
+        "safety": "moderate"
+    },
+    {
+        "country": "Gambia",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Georgia",
+        "safety": "moderate"
+    },
+    {
+        "country": "Germany",
+        "safety": "safe"
+    },
+    {
+        "country": "Ghana",
+        "safety": "moderate"
+    },
+    {
+        "country": "Gibraltar",
+        "safety": "safe"
+    },
+    {
+        "country": "Greece",
+        "safety": "moderate"
+    },
+    {
+        "country": "Greenland",
+        "safety": "safe"
+    },
+    {
+        "country": "Grenada",
+        "safety": "safe"
+    },
+    {
+        "country": "Guadeloupe",
+        "safety": "moderate"
+    },
+    {
+        "country": "Guam",
+        "safety": "safe"
+    },
+    {
+        "country": "Guatemala",
+        "safety": "moderate"
+    },
+    {
+        "country": "Guernsey",
+        "safety": "safe"
+    },
+    {
+        "country": "Guinea",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Guinea-Bissau",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Guyana",
+        "safety": "moderate"
+    },
+    {
+        "country": "Haiti",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Heard Island & Mcdonald Islands",
+        "safety": "safe"
+    },
+    {
+        "country": "Holy See (Vatican City State)",
+        "safety": "safe"
+    },
+    {
+        "country": "Honduras",
+        "safety": "moderate"
+    },
+    {
+        "country": "Hong Kong",
+        "safety": "moderate"
+    },
+    {
+        "country": "Hungary",
+        "safety": "moderate"
+    },
+    {
+        "country": "Iceland",
+        "safety": "safe"
+    },
+    {
+        "country": "India",
+        "safety": "safe"
+    },
+    {
+        "country": "Indonesia",
+        "safety": "moderate"
+    },
+    {
+        "country": "Iran, Islamic Republic Of",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Iraq",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Ireland",
+        "safety": "safe"
+    },
+    {
+        "country": "Isle Of Man",
+        "safety": "safe"
+    },
+    {
+        "country": "Israel",
+        "safety": "moderate"
+    },
+    {
+        "country": "Italy",
+        "safety": "moderate"
+    },
+    {
+        "country": "Jamaica",
+        "safety": "moderate"
+    },
+    {
+        "country": "Japan",
+        "safety": "moderate"
+    },
+    {
+        "country": "Jersey",
+        "safety": "safe"
+    },
+    {
+        "country": "Jordan",
+        "safety": "moderate"
+    },
+    {
+        "country": "Kazakhstan",
+        "safety": "moderate"
+    },
+    {
+        "country": "Kenya",
+        "safety": "moderate"
+    },
+    {
+        "country": "Kiribati",
+        "safety": "moderate"
+    },
+    {
+        "country": "South Korea",
+        "safety": "moderate"
+    },
+    {
+        "country": "North Korea",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Kuwait",
+        "safety": "safe"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "safety": "moderate"
+    },
+    {
+        "country": "Lao People's Democratic Republic",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Latvia",
+        "safety": "moderate"
+    },
+    {
+        "country": "Lebanon",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Lesotho",
+        "safety": "moderate"
+    },
+    {
+        "country": "Liberia",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Libyan Arab Jamahiriya",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Liechtenstein",
+        "safety": "safe"
+    },
+    {
+        "country": "Lithuania",
+        "safety": "moderate"
+    },
+    {
+        "country": "Luxembourg",
+        "safety": "safe"
+    },
+    {
+        "country": "Macao",
+        "safety": "moderate"
+    },
+    {
+        "country": "Macedonia",
+        "safety": "moderate"
+    },
+    {
+        "country": "Madagascar",
+        "safety": "moderate"
+    },
+    {
+        "country": "Malawi",
+        "safety": "moderate"
+    },
+    {
+        "country": "Malaysia",
+        "safety": "moderate"
+    },
+    {
+        "country": "Maldives",
+        "safety": "moderate"
+    },
+    {
+        "country": "Mali",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Malta",
+        "safety": "moderate"
+    },
+    {
+        "country": "Marshall Islands",
+        "safety": "safe"
+    },
+    {
+        "country": "Martinique",
+        "safety": "moderate"
+    },
+    {
+        "country": "Mauritania",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Mauritius",
+        "safety": "moderate"
+    },
+    {
+        "country": "Mayotte",
+        "safety": "safe"
+    },
+    {
+        "country": "Mexico",
+        "safety": "moderate"
+    },
+    {
+        "country": "Micronesia, Federated States Of",
+        "safety": "safe"
+    },
+    {
+        "country": "Moldova",
+        "safety": "moderate"
+    },
+    {
+        "country": "Monaco",
+        "safety": "safe"
+    },
+    {
+        "country": "Mongolia",
+        "safety": "moderate"
+    },
+    {
+        "country": "Montenegro",
+        "safety": "moderate"
+    },
+    {
+        "country": "Montserrat",
+        "safety": "safe"
+    },
+    {
+        "country": "Morocco",
+        "safety": "moderate"
+    },
+    {
+        "country": "Mozambique",
+        "safety": "moderate"
+    },
+    {
+        "country": "Myanmar",
+        "safety": "moderate"
+    },
+    {
+        "country": "Namibia",
+        "safety": "moderate"
+    },
+    {
+        "country": "Nauru",
+        "safety": "moderate"
+    },
+    {
+        "country": "Nepal",
+        "safety": "moderate"
+    },
+    {
+        "country": "Netherlands",
+        "safety": "safe"
+    },
+    {
+        "country": "Netherlands Antilles",
+        "safety": "safe"
+    },
+    {
+        "country": "New Caledonia",
+        "safety": "moderate"
+    },
+    {
+        "country": "New Zealand",
+        "safety": "safe"
+    },
+    {
+        "country": "Nicaragua",
+        "safety": "moderate"
+    },
+    {
+        "country": "Niger",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Nigeria",
+        "safety": "moderate"
+    },
+    {
+        "country": "Niue",
+        "safety": "safe"
+    },
+    {
+        "country": "Norfolk Island",
+        "safety": "safe"
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "safety": "safe"
+    },
+    {
+        "country": "Norway",
+        "safety": "safe"
+    },
+    {
+        "country": "Oman",
+        "safety": "moderate"
+    },
+    {
+        "country": "Pakistan",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Palau",
+        "safety": "safe"
+    },
+    {
+        "country": "Palestinian Territory, Occupied",
+        "safety": "moderate"
+    },
+    {
+        "country": "Panama",
+        "safety": "moderate"
+    },
+    {
+        "country": "Papua New Guinea",
+        "safety": "moderate"
+    },
+    {
+        "country": "Paraguay",
+        "safety": "moderate"
+    },
+    {
+        "country": "Peru",
+        "safety": "moderate"
+    },
+    {
+        "country": "Philippines",
+        "safety": "moderate"
+    },
+    {
+        "country": "Pitcairn",
+        "safety": "safe"
+    },
+    {
+        "country": "Poland",
+        "safety": "moderate"
+    },
+    {
+        "country": "Portugal",
+        "safety": "moderate"
+    },
+    {
+        "country": "Puerto Rico",
+        "safety": "moderate"
+    },
+    {
+        "country": "Qatar",
+        "safety": "safe"
+    },
+    {
+        "country": "Reunion",
+        "safety": "moderate"
+    },
+    {
+        "country": "Romania",
+        "safety": "moderate"
+    },
+    {
+        "country": "Russia",
+        "safety": "moderate"
+    },
+    {
+        "country": "Rwanda",
+        "safety": "moderate"
+    },
+    {
+        "country": "Saint Barthelemy",
+        "safety": "safe"
+    },
+    {
+        "country": "Saint Helena",
+        "safety": "safe"
+    },
+    {
+        "country": "Saint Kitts And Nevis",
+        "safety": "safe"
+    },
+    {
+        "country": "Saint Lucia",
+        "safety": "safe"
+    },
+    {
+        "country": "Saint Martin",
+        "safety": "safe"
+    },
+    {
+        "country": "Saint Pierre And Miquelon",
+        "safety": "safe"
+    },
+    {
+        "country": "Saint Vincent And Grenadines",
+        "safety": "safe"
+    },
+    {
+        "country": "Samoa",
+        "safety": "moderate"
+    },
+    {
+        "country": "San Marino",
+        "safety": "safe"
+    },
+    {
+        "country": "Sao Tome And Principe",
+        "safety": "moderate"
+    },
+    {
+        "country": "Saudi Arabia",
+        "safety": "moderate"
+    },
+    {
+        "country": "Senegal",
+        "safety": "moderate"
+    },
+    {
+        "country": "Serbia",
+        "safety": "moderate"
+    },
+    {
+        "country": "Seychelles",
+        "safety": "moderate"
+    },
+    {
+        "country": "Sierra Leone",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Singapore",
+        "safety": "safe"
+    },
+    {
+        "country": "Slovakia",
+        "safety": "moderate"
+    },
+    {
+        "country": "Slovenia",
+        "safety": "moderate"
+    },
+    {
+        "country": "Solomon Islands",
+        "safety": "moderate"
+    },
+    {
+        "country": "Somalia",
+        "safety": "unsafe"
+    },
+    {
+        "country": "South Africa",
+        "safety": "moderate"
+    },
+    {
+        "country": "South Georgia And Sandwich Isl.",
+        "safety": "safe"
+    },
+    {
+        "country": "Spain",
+        "safety": "moderate"
+    },
+    {
+        "country": "Sri Lanka",
+        "safety": "moderate"
+    },
+    {
+        "country": "Sudan",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Suriname",
+        "safety": "moderate"
+    },
+    {
+        "country": "Svalbard And Jan Mayen",
+        "safety": "safe"
+    },
+    {
+        "country": "Swaziland",
+        "safety": "moderate"
+    },
+    {
+        "country": "Sweden",
+        "safety": "safe"
+    },
+    {
+        "country": "Switzerland",
+        "safety": "safe"
+    },
+    {
+        "country": "Syrian Arab Republic",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Taiwan",
+        "safety": "moderate"
+    },
+    {
+        "country": "Tajikistan",
+        "safety": "moderate"
+    },
+    {
+        "country": "Tanzania",
+        "safety": "moderate"
+    },
+    {
+        "country": "Thailand",
+        "safety": "moderate"
+    },
+    {
+        "country": "Timor-Leste",
+        "safety": "moderate"
+    },
+    {
+        "country": "Togo",
+        "safety": "moderate"
+    },
+    {
+        "country": "Tokelau",
+        "safety": "safe"
+    },
+    {
+        "country": "Tonga",
+        "safety": "moderate"
+    },
+    {
+        "country": "Trinidad And Tobago",
+        "safety": "moderate"
+    },
+    {
+        "country": "Tunisia",
+        "safety": "moderate"
+    },
+    {
+        "country": "Turkey",
+        "safety": "moderate"
+    },
+    {
+        "country": "Turkmenistan",
+        "safety": "moderate"
+    },
+    {
+        "country": "Turks And Caicos Islands",
+        "safety": "safe"
+    },
+    {
+        "country": "Tuvalu",
+        "safety": "moderate"
+    },
+    {
+        "country": "Uganda",
+        "safety": "moderate"
+    },
+    {
+        "country": "Ukraine",
+        "safety": "moderate"
+    },
+    {
+        "country": "United Arab Emirates",
+        "safety": "moderate"
+    },
+    {
+        "country": "United Kingdom",
+        "safety": "moderate"
+    },
+    {
+        "country": "United States",
+        "safety": "moderate"
+    },
+    {
+        "country": "United States Outlying Islands",
+        "safety": "safe"
+    },
+    {
+        "country": "Uruguay",
+        "safety": "moderate"
+    },
+    {
+        "country": "Uzbekistan",
+        "safety": "moderate"
+    },
+    {
+        "country": "Vanuatu",
+        "safety": "moderate"
+    },
+    {
+        "country": "Venezuela",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Viet Nam",
+        "safety": "moderate"
+    },
+    {
+        "country": "Virgin Islands, British",
+        "safety": "safe"
+    },
+    {
+        "country": "Virgin Islands, U.S.",
+        "safety": "safe"
+    },
+    {
+        "country": "Wallis And Futuna",
+        "safety": "safe"
+    },
+    {
+        "country": "Western Sahara",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Yemen",
+        "safety": "unsafe"
+    },
+    {
+        "country": "Zambia",
+        "safety": "moderate"
+    },
+    {
+        "country": "Zimbabwe",
+        "safety": "moderate"
+    }
+]

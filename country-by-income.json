@@ -1,0 +1,986 @@
+[
+    {
+        "country": "Afghanistan",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Aland Islands",
+        "income_level": "High income"
+    },
+    {
+        "country": "Albania",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Algeria",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "American Samoa",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Andorra",
+        "income_level": "High income"
+    },
+    {
+        "country": "Angola",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Anguilla",
+        "income_level": "High income"
+    },
+    {
+        "country": "Antarctica",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Antigua And Barbuda",
+        "income_level": "High income"
+    },
+    {
+        "country": "Argentina",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Armenia",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Aruba",
+        "income_level": "High income"
+    },
+    {
+        "country": "Australia",
+        "income_level": "High income"
+    },
+    {
+        "country": "Austria",
+        "income_level": "High income"
+    },
+    {
+        "country": "Azerbaijan",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Bahamas",
+        "income_level": "High income"
+    },
+    {
+        "country": "Bahrain",
+        "income_level": "High income"
+    },
+    {
+        "country": "Bangladesh",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Barbados",
+        "income_level": "High income"
+    },
+    {
+        "country": "Belarus",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Belgium",
+        "income_level": "High income"
+    },
+    {
+        "country": "Belize",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Benin",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Bermuda",
+        "income_level": "High income"
+    },
+    {
+        "country": "Bhutan",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Bolivia",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Bosnia And Herzegovina",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Botswana",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Bouvet Island",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Brazil",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Brunei Darussalam",
+        "income_level": "High income"
+    },
+    {
+        "country": "Bulgaria",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Burkina Faso",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Burundi",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Cambodia",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Cameroon",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Canada",
+        "income_level": "High income"
+    },
+    {
+        "country": "Cape Verde",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Cayman Islands",
+        "income_level": "High income"
+    },
+    {
+        "country": "Central African Republic",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Chad",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Chile",
+        "income_level": "High income"
+    },
+    {
+        "country": "China",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Christmas Island",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Cocos (Keeling) Islands",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Colombia",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Comoros",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Congo",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Congo, Democratic Republic",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Cook Islands",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Costa Rica",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Cote D'Ivoire",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Croatia",
+        "income_level": "High income"
+    },
+    {
+        "country": "Cuba",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Cyprus",
+        "income_level": "High income"
+    },
+    {
+        "country": "Czech Republic",
+        "income_level": "High income"
+    },
+    {
+        "country": "Denmark",
+        "income_level": "High income"
+    },
+    {
+        "country": "Djibouti",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Dominica",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Dominican Republic",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Ecuador",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Egypt",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "El Salvador",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Equatorial Guinea",
+        "income_level": "High income"
+    },
+    {
+        "country": "Eritrea",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Estonia",
+        "income_level": "High income"
+    },
+    {
+        "country": "Ethiopia",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Falkland Islands (Malvinas)",
+        "income_level": "High income"
+    },
+    {
+        "country": "Faroe Islands",
+        "income_level": "High income"
+    },
+    {
+        "country": "Fiji",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Finland",
+        "income_level": "High income"
+    },
+    {
+        "country": "France",
+        "income_level": "High income"
+    },
+    {
+        "country": "French Guiana",
+        "income_level": "High income"
+    },
+    {
+        "country": "French Polynesia",
+        "income_level": "High income"
+    },
+    {
+        "country": "French Southern Territories",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Gabon",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Gambia",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Georgia",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Germany",
+        "income_level": "High income"
+    },
+    {
+        "country": "Ghana",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Gibraltar",
+        "income_level": "High income"
+    },
+    {
+        "country": "Greece",
+        "income_level": "High income"
+    },
+    {
+        "country": "Greenland",
+        "income_level": "High income"
+    },
+    {
+        "country": "Grenada",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Guadeloupe",
+        "income_level": "High income"
+    },
+    {
+        "country": "Guam",
+        "income_level": "High income"
+    },
+    {
+        "country": "Guatemala",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Guernsey",
+        "income_level": "High income"
+    },
+    {
+        "country": "Guinea",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Guinea-Bissau",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Guyana",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Haiti",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Heard Island & Mcdonald Islands",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Holy See (Vatican City State)",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Honduras",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Hong Kong",
+        "income_level": "High income"
+    },
+    {
+        "country": "Hungary",
+        "income_level": "High income"
+    },
+    {
+        "country": "Iceland",
+        "income_level": "High income"
+    },
+    {
+        "country": "India",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Indonesia",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Iran, Islamic Republic Of",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Iraq",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Ireland",
+        "income_level": "High income"
+    },
+    {
+        "country": "Isle Of Man",
+        "income_level": "High income"
+    },
+    {
+        "country": "Israel",
+        "income_level": "High income"
+    },
+    {
+        "country": "Italy",
+        "income_level": "High income"
+    },
+    {
+        "country": "Jamaica",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Japan",
+        "income_level": "High income"
+    },
+    {
+        "country": "Jersey",
+        "income_level": "High income"
+    },
+    {
+        "country": "Jordan",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Kazakhstan",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Kenya",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Kiribati",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "South Korea",
+        "income_level": "High income"
+    },
+    {
+        "country": "North Korea",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Kuwait",
+        "income_level": "High income"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Lao People's Democratic Republic",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Latvia",
+        "income_level": "High income"
+    },
+    {
+        "country": "Lebanon",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Lesotho",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Liberia",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Libyan Arab Jamahiriya",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Liechtenstein",
+        "income_level": "High income"
+    },
+    {
+        "country": "Lithuania",
+        "income_level": "High income"
+    },
+    {
+        "country": "Luxembourg",
+        "income_level": "High income"
+    },
+    {
+        "country": "Macao",
+        "income_level": "High income"
+    },
+    {
+        "country": "Macedonia",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Madagascar",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Malawi",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Malaysia",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Maldives",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Mali",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Malta",
+        "income_level": "High income"
+    },
+    {
+        "country": "Marshall Islands",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Martinique",
+        "income_level": "High income"
+    },
+    {
+        "country": "Mauritania",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Mauritius",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Mayotte",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Mexico",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Micronesia, Federated States Of",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Moldova",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Monaco",
+        "income_level": "High income"
+    },
+    {
+        "country": "Mongolia",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Montenegro",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Montserrat",
+        "income_level": "High income"
+    },
+    {
+        "country": "Morocco",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Mozambique",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Myanmar",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Namibia",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Nauru",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Nepal",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Netherlands",
+        "income_level": "High income"
+    },
+    {
+        "country": "Netherlands Antilles",
+        "income_level": "N/A"
+    },
+    {
+        "country": "New Caledonia",
+        "income_level": "High income"
+    },
+    {
+        "country": "New Zealand",
+        "income_level": "High income"
+    },
+    {
+        "country": "Nicaragua",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Niger",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Nigeria",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Niue",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Norfolk Island",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "income_level": "High income"
+    },
+    {
+        "country": "Norway",
+        "income_level": "High income"
+    },
+    {
+        "country": "Oman",
+        "income_level": "High income"
+    },
+    {
+        "country": "Pakistan",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Palau",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Palestinian Territory, Occupied",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Panama",
+        "income_level": "High income"
+    },
+    {
+        "country": "Papua New Guinea",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Paraguay",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Peru",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Philippines",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Pitcairn",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Poland",
+        "income_level": "High income"
+    },
+    {
+        "country": "Portugal",
+        "income_level": "High income"
+    },
+    {
+        "country": "Puerto Rico",
+        "income_level": "High income"
+    },
+    {
+        "country": "Qatar",
+        "income_level": "High income"
+    },
+    {
+        "country": "Reunion",
+        "income_level": "High income"
+    },
+    {
+        "country": "Romania",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Russia",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Rwanda",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Saint Barthelemy",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Saint Helena",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Saint Kitts And Nevis",
+        "income_level": "High income"
+    },
+    {
+        "country": "Saint Lucia",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Saint Martin",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Saint Pierre And Miquelon",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Saint Vincent And Grenadines",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Samoa",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "San Marino",
+        "income_level": "High income"
+    },
+    {
+        "country": "Sao Tome And Principe",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Saudi Arabia",
+        "income_level": "High income"
+    },
+    {
+        "country": "Senegal",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Serbia",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Seychelles",
+        "income_level": "High income"
+    },
+    {
+        "country": "Sierra Leone",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Singapore",
+        "income_level": "High income"
+    },
+    {
+        "country": "Slovakia",
+        "income_level": "High income"
+    },
+    {
+        "country": "Slovenia",
+        "income_level": "High income"
+    },
+    {
+        "country": "Solomon Islands",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Somalia",
+        "income_level": "Low income"
+    },
+    {
+        "country": "South Africa",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "South Georgia And Sandwich Isl.",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Spain",
+        "income_level": "High income"
+    },
+    {
+        "country": "Sri Lanka",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Sudan",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Suriname",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Svalbard And Jan Mayen",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Swaziland",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Sweden",
+        "income_level": "High income"
+    },
+    {
+        "country": "Switzerland",
+        "income_level": "High income"
+    },
+    {
+        "country": "Syrian Arab Republic",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Taiwan",
+        "income_level": "High income"
+    },
+    {
+        "country": "Tajikistan",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Tanzania",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Thailand",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Timor-Leste",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Togo",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Tokelau",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Tonga",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Trinidad And Tobago",
+        "income_level": "High income"
+    },
+    {
+        "country": "Tunisia",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Turkey",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Turkmenistan",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Turks And Caicos Islands",
+        "income_level": "High income"
+    },
+    {
+        "country": "Tuvalu",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Uganda",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Ukraine",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "United Arab Emirates",
+        "income_level": "High income"
+    },
+    {
+        "country": "United Kingdom",
+        "income_level": "High income"
+    },
+    {
+        "country": "United States",
+        "income_level": "High income"
+    },
+    {
+        "country": "United States Outlying Islands",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Uruguay",
+        "income_level": "High income"
+    },
+    {
+        "country": "Uzbekistan",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Vanuatu",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Venezuela",
+        "income_level": "Upper middle income"
+    },
+    {
+        "country": "Vietnam",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Virgin Islands, British",
+        "income_level": "High income"
+    },
+    {
+        "country": "Virgin Islands, U.S.",
+        "income_level": "High income"
+    },
+    {
+        "country": "Wallis And Futuna",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Western Sahara",
+        "income_level": "N/A"
+    },
+    {
+        "country": "Yemen",
+        "income_level": "Low income"
+    },
+    {
+        "country": "Zambia",
+        "income_level": "Lower middle income"
+    },
+    {
+        "country": "Zimbabwe",
+        "income_level": "Low income"
+    }
+]
